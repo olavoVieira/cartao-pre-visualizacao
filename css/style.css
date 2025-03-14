@@ -1,0 +1,34 @@
+body {
+    background-color: #0d192b;
+    color: white;
+    box-sizing: border-box;
+    /* text-align: center; */
+}
+
+.box {
+    width: 40%;
+    margin: 0 auto;
+    
+    background-color: #14253d;
+    
+
+    border: solid 1px red;
+}
+
+.image-box {
+    justify-content: center;
+}
+
+.text {
+    color: #617898;
+    font-size: 1.13rem;
+}
+
+.losango {
+    width: 1rem;
+     
+}
+
+.box-losango p {
+    color: #00fdfb; 
+}
